@@ -52,6 +52,7 @@
     /* table section  */
         table{
             margin-top: 20px;
+            border-spacing: 0px;
         }
         thead{
             background-color: #20a9e5;
