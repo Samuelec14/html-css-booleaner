@@ -70,4 +70,25 @@
         .last-column{
             width: 58%;
         }
-        
+/* "potrebbero interessarti" footer  */
+        #footer-header{
+            color: #8d8d8d;
+            font-weight: bold;
+            margin-top: 40px;
+            font-size: 17;
+        }
+        .footer-font-images{
+            width: 220px;
+            height: 220px;
+            margin-top: 15px;
+            color: white;
+            font-size:19px ;
+            padding: 10px;
+            font-weight: bold;
+        }
+        #footer-image1{
+            background-image: url(img/monitor.jpg);
+        }
+        #footer-image2{
+            background-image: url(img/graph.jpg);
+        }
