@@ -1,0 +1,37 @@
+/* Pattern "the booleaner"  */
+#pattern-container{
+    height: 160px;
+    background-color: #4ea0ff;
+    background-image: url(img/pattern.png);
+}
+
+#logo{
+    height: 70px;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+
+/* Title, sign, date */
+.font{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#title{
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+#sign{
+    display: block;
+    color: #8d8d8d;
+    font-size: 23px;
+}
+#sign-link{
+    color: #1da7e4;
+    text-decoration:none;
+}
+#date{
+    display: block;
+    color: #8d8d8d;
+    font-size: 16px;
+}
+
