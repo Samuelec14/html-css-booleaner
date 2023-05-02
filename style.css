@@ -2,6 +2,9 @@
     .font{
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
+    .highlighter{
+        background-color: yellow;
+    }
 /* \general */
 
 /* Pattern "the booleaner"  */
@@ -43,10 +46,28 @@
         }
 
     /* main text area section  */
-        #text-fraction{
-            background-color: yellow;
-        }
         #list{
             margin-top: 30px;
+        }
+    /* table section  */
+        table{
+            margin-top: 20px;
+        }
+        thead{
+            background-color: #20a9e5;
+            color: white;
+        }
+        .light-blue-row{
+            background-color: #b1e5f2;
+        }
+        th{
+            width: 20%;
+            text-align: left;
+        }
+        td{
+            width: 20%;
+        }
+        .last-column{
+            width: 58%;
         }
         
