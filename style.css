@@ -38,6 +38,15 @@
 
 /* main  */
     /* images section  */
-    .pic-subtitle{
-        font-size: 15px
-    }
+        .pic-subtitle{
+            font-size: 15px
+        }
+
+    /* main text area section  */
+        #text-fraction{
+            background-color: yellow;
+        }
+        #list{
+            margin-top: 30px;
+        }
+        
