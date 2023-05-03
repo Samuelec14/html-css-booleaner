@@ -12,6 +12,7 @@
         height: 160px;
         background-color: #4ea0ff;
         background-image: url(img/pattern.png);
+        background-size: 31%;
     }
 
     #logo{
@@ -24,13 +25,13 @@
     #title{
         font-size: 45px;
         font-weight: bold;
-        margin-top: 15px;
+        margin-bottom: 0;
     }
     #sign{
         color: #8d8d8d;
         font-size: 23px;
     }
-    #sign-link{
+    .author-link{
         color: #1da7e4;
         text-decoration:none;
     }
